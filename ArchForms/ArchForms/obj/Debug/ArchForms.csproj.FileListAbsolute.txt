@@ -1,0 +1,13 @@
+D:\ArchCS\ArchForms\ArchForms\bin\Debug\ArchForms.exe.config
+D:\ArchCS\ArchForms\ArchForms\bin\Debug\ArchForms.exe
+D:\ArchCS\ArchForms\ArchForms\bin\Debug\ArchForms.pdb
+D:\ArchCS\ArchForms\ArchForms\obj\Debug\ArchForms.csprojAssemblyReference.cache
+D:\ArchCS\ArchForms\ArchForms\obj\Debug\ArchForms.Form1.resources
+D:\ArchCS\ArchForms\ArchForms\obj\Debug\ArchForms.Properties.Resources.resources
+D:\ArchCS\ArchForms\ArchForms\obj\Debug\ArchForms.csproj.GenerateResource.cache
+D:\ArchCS\ArchForms\ArchForms\obj\Debug\ArchForms.csproj.CoreCompileInputs.cache
+D:\ArchCS\ArchForms\ArchForms\obj\Debug\ArchForms.exe
+D:\ArchCS\ArchForms\ArchForms\obj\Debug\ArchForms.pdb
+C:\Users\Татьяна\Desktop\project_test\ArchCS\ArchForms\ArchForms\bin\Debug\ArchForms.exe.config
+C:\Users\Татьяна\Desktop\project_test\ArchCS\ArchForms\ArchForms\obj\Debug\ArchForms.exe
+C:\Users\Татьяна\Desktop\project_test\ArchCS\ArchForms\ArchForms\obj\Debug\ArchForms.pdb
