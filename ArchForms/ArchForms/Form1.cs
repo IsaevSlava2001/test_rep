@@ -23,7 +23,7 @@ namespace ArchForms
             //Use use = new Use();
             //use.Battle();
             InitializeComponent();
-            // todo: потоковый читатель имени
+            // todo: потоковый читатель имени (проверка)
             answerLabel.Text = "Ты будешь со мной играть?";
             button1.Text = "Да";
             button2.Text = "Нет";
