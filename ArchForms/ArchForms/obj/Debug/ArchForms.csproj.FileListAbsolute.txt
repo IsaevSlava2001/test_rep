@@ -11,3 +11,6 @@ D:\ArchCS\ArchForms\ArchForms\obj\Debug\ArchForms.pdb
 C:\Users\Татьяна\Desktop\project_test\ArchCS\ArchForms\ArchForms\bin\Debug\ArchForms.exe.config
 C:\Users\Татьяна\Desktop\project_test\ArchCS\ArchForms\ArchForms\obj\Debug\ArchForms.exe
 C:\Users\Татьяна\Desktop\project_test\ArchCS\ArchForms\ArchForms\obj\Debug\ArchForms.pdb
+C:\Users\Татьяна\Desktop\test\test_rep\ArchForms\ArchForms\bin\Debug\ArchForms.exe.config
+C:\Users\Татьяна\Desktop\test\test_rep\ArchForms\ArchForms\obj\Debug\ArchForms.exe
+C:\Users\Татьяна\Desktop\test\test_rep\ArchForms\ArchForms\obj\Debug\ArchForms.pdb
